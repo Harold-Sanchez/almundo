@@ -38,7 +38,7 @@ Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB,
   
 # Run
   > node server
-  # Note: antes de ejecutar hay que tener instalado mongo db y ejecuatar el comando > mongod. Port 17072.
+  *Note: antes de ejecutar hay que tener instalado mongo db y ejecuatar el comando > mongod. Port 17072.
   
 # Port 
   300
