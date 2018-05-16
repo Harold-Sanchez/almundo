@@ -13,12 +13,10 @@ Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB,
 # API Rest NodeJS
     Se arma API Rest con las siguientes funcionalidades:
     
-  - La funcionalidad de listado y filtrado de hoteles debe estar soportada por la API y
+  - La funcionalidad de listado y filtrado de hoteles esta soportada por la API y
     consumida en la aplicación cliente.
-  - A la hora de diseñar la estructura de la aplicación, tener en cuenta factores como
+  - A la hora de diseñar la estructura de la aplicación, se tiene en cuenta factores como
     escalabilidad, reutilización y separación de responsabilidades.
-  - Uso de configuraciones para ajustar como se ejecuta la aplicación en entornos productivos
-    y de desarrollo.
 
 # Frontend
 
