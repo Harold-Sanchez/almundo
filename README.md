@@ -1,7 +1,7 @@
 # almundo
 Test front end.
 
-Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB, Angular para consumir servicios del Backend hecho con NodeJS de manera asincrona SPA, enrutando con angular-ui-route y para el mquetado Materialize css.
+Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB, Angular para consumir servicios del Backend hecho con NodeJS de manera asincrona SPA, enrutando con angular-ui-route y maquetado Materialize css.
 
 # Dependencias
     npm install express --save
