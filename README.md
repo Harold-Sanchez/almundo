@@ -30,8 +30,8 @@ Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB,
   
 # Extras
 
-  Se añade capa de persistencia de datos (Angular Objetos, NodeJs).
-  Se implementa el CRUD de hoteles (solo a nivel API).
+  - Se añade capa de persistencia de datos (Angular Objetos, NodeJs).
+  - Se implementa el CRUD de hoteles (solo a nivel API).
     
 # Api
   POST, GET, PUT, DELET Hotels
