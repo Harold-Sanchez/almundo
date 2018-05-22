@@ -38,12 +38,19 @@ Desarrollo hecho con Express como servidor, Mongosee para conexión con MongoDB,
   
 # Run
   1. Instalar mogodb (#community).
+  
    https://www.mongodb.com/download-center?jmp=tutorials&_ga=2.186100457.1906513914.1526957490-943148417.1526957487#community
+   
   2. Luego ejecutar por consola 'mongod':
+  
    > mongod
+   
   3. Finalmente ejecutar por consola el proyecto desde la raiz del mismo 'node server'.
+  
    > node server
+   
   4. Se despleglara el proyecto por el puerto 3000.
+  
    localhost:3000/
   
   
